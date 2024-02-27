@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="220" height="100" viewBox="0 0 220 100" xml:space="preserve">
+<desc>Created with Fabric.js 3.6.6</desc>
+<defs>
+</defs>
+<g transform="matrix(1 0 0 1 46.5 48.5)"  >
+<g style=""   >
+		<g transform="matrix(0.13 0 0 0.13 0 0)" id="SVGRepo_iconCarrier"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(214,229,246); fill-rule: nonzero; opacity: 1;"  transform=" translate(-256, -256)" d="M 488.727 31.03 H 23.273 C 10.42 31.03 0 41.45 0 54.303 v 403.394 c 0 12.854 10.42 23.273 23.273 23.273 h 465.455 c 12.853 0 23.273 -10.418 23.273 -23.273 V 54.303 C 512 41.45 501.58 31.03 488.727 31.03 z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(0.13 0 0 0.13 17.25 0)" id="SVGRepo_iconCarrier"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(164,198,236); fill-rule: nonzero; opacity: 1;"  transform=" translate(-384, -256)" d="M 488.727 31.03 H 256 V 480.97 h 232.727 c 12.853 0 23.273 -10.418 23.273 -23.273 V 54.303 C 512 41.45 501.58 31.03 488.727 31.03 z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(0.13 0 0 0.13 0 -20.91)" id="SVGRepo_iconCarrier"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(56,92,142); fill-rule: nonzero; opacity: 1;"  transform=" translate(-256, -100.85)" d="M 488.727 31.03 H 23.273 C 10.42 31.03 0 41.45 0 54.303 v 93.091 c 0 12.854 10.42 23.273 23.273 23.273 h 465.455 c 12.853 0 23.273 -10.418 23.273 -23.273 V 54.303 C 512 41.45 501.58 31.03 488.727 31.03 z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(0.13 0 0 0.13 17.25 -20.91)" id="SVGRepo_iconCarrier"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(29,51,102); fill-rule: nonzero; opacity: 1;"  transform=" translate(-384, -100.85)" d="M 488.727 31.03 H 256 v 139.636 h 232.727 c 12.853 0 23.273 -10.418 23.273 -23.273 V 54.303 C 512 41.45 501.58 31.03 488.727 31.03 z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(0.13 0 0 0.13 25.09 -20.91)" id="SVGRepo_iconCarrier"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1;"  x="-46.5455" y="-46.561" rx="0" ry="0" width="93.091" height="93.122" />
+</g>
+		<g transform="matrix(0.13 0 0 0.13 25.09 -20.91)" id="SVGRepo_iconCarrier"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(29,51,102); fill-rule: nonzero; opacity: 1;"  transform=" translate(-442.18, -100.86)" d="M 488.727 170.695 h -93.091 c -12.853 0 -23.273 -10.42 -23.273 -23.273 V 54.303 c 0 -12.851 10.42 -23.273 23.273 -23.273 h 93.091 C 501.58 31.03 512 41.452 512 54.303 v 93.119 C 512 160.275 501.58 170.695 488.727 170.695 z M 418.909 124.149 h 46.545 V 77.576 h -46.545 V 124.149 z" stroke-linecap="round" />
+</g>
+</g>
+</g>
+<g transform="matrix(1 0 0 1 146.5 49.23)" style=""  >
+		<text xml:space="preserve" font-family="'Open Sans', sans-serif" font-size="19" font-style="normal" font-weight="bold" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-58" y="5.97" style="stroke-width: 1; font-family: 'Open Sans', sans-serif; font-style: normal; fill: rgb(0,0,0); ">My Website</tspan></text>
+</g>
+</svg>

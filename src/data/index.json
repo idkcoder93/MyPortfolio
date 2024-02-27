@@ -1,0 +1,77 @@
+{
+    "skills": [
+        {
+            "id": "1",
+            "src": "./img/product-chain-1.png",
+            "title": "Front-End",
+            "description": "With proficiency in React, HTML, and CSS, I'm capable of crafting websites and user interfaces that are both visually appealing and functional, meeting the needs of modern digital environments "
+        },
+        {
+            "id": "2",
+            "src": "./img/tag-1.png",
+            "title": "Back-End",
+            "description": "Backend development using Express.js and experience integrating databases to create robust and efficient web applications. I ensure projects are powered for optimal performance and reliability."
+        },
+        {
+            "id": "3",
+            "src": "./img/feather-pen-2.png",
+            "title": "UI & UX Design",
+            "description": "I have a strong grasp of UI design principles, crafting visually appealing interfaces with intuitive layouts and engaging elements. My expertise in UX design enables me to enhance user navigation, optimizing interaction flows and the overall satisfaction with the digital experience."
+        },
+        {
+            "id": "4",
+            "src": "./img/feather-pen-1.png",
+            "title": "Webflow Development",
+            "description": "I adeptly design and build visually stunning websites with seamless interactions and responsive layouts. Leveraging Webflow's capabilities, I ensure an intuitive user experience, enhancing engagement and satisfaction across various digital platforms."
+        }
+    ],
+    "portfolio": [
+        {
+            "id": "1",
+            "src": "./img/placeholder-image.png",
+            "title": "Example Image",
+            "description": "This is a placeholder image, website can be customizable to your liking",
+            "link": "View In Github"
+        },
+        {
+            "id": "2",
+            "src": "./img/placeholder-image-1.png",
+            "title": "Example Image",
+            "description": "This is a placeholder image, website can be customizable to your liking",
+            "link": "View In Github"
+        },
+        {
+            "id": "3",
+            "src": "./img/placeholder-image-2.png",
+            "title": "Example Image",
+            "description": "This is a placeholder image, website can be customizable to your liking",
+            "link": "View In Github"
+        }
+    ],
+    "testimonial": [
+        {
+            "id": "1",
+            "count": "5",
+            "src": "./img/avatar-image.png",
+            "description": "Customer feedback example cards",
+            "author": "Example",
+            "author_designation": "Customer Example"
+        },
+        {
+            "id": "2",
+            "count": "5",
+            "src": "./img/avatar-image-1.png",
+            "description": "Customer feedback example cards",
+            "author": "Example",
+            "author_designation": "Customer Example"
+        },
+        {
+            "id": "3",
+            "count": "5",
+            "src": "./img/avatar-image-2.png",
+            "description": "Customer feedback example cards",
+            "author": "Example",
+            "author_designation": "Customer Example"
+        }
+    ]
+}
